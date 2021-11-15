@@ -14,5 +14,6 @@ Literatura i inspiracje książkowe:
 - Daniel Shiffman, "The nature of Code", Daniel Shiffman, 2012
 
 Źródła i inspiracje internetowe
+- https://www.youtube.com/c/TheCodingTrain
 - https://natureofcode.com
 - https://www.w3schools.com
