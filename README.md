@@ -5,7 +5,7 @@ Materiały dydaktyczne do realizowanych zajęć z podstaw programowania w język
 Autor: Szymon Maćkowiak
 
 Licencja: 
-- Teksty i ilustracje niniejszych materiałów są objęte licencją CC BY-NC 3.0: https://creativecommons.org/licenses/by-nc/3.0/pl/
+- Teksty i ilustracje niniejszych materiałów są objęte licencją CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pl
 - Kody źródłowe zawarte w niniejszych materiałach są objęte licencją MIT: https://opensource.org/licenses/mit-license.php
 
 Literatura i inspiracje książkowe:
