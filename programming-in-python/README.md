@@ -19,6 +19,11 @@ Internet sources and inspiration:
 - https://natureofcode.com
 - https://www.w3schools.com
 
+Translation supported by:
+- DeepL: https://www.deepl.com
+- ChatGPT: https://chat.openai.com
+- Google Translate: https://translate.google.com
+
 # 🇵🇱 Podstawy programowania w Pythonie 
 
 Materiały dydaktyczne do realizowanych zajęć z podstaw programowania w języku Python. Materiały zostały opracowane w języku polskim i angielskim.
@@ -39,3 +44,8 @@ Literatura i inspiracje książkowe:
 - https://www.youtube.com/c/TheCodingTrain
 - https://natureofcode.com
 - https://www.w3schools.com
+
+Tłumaczenie wspierane przez:
+- DeepL: https://www.deepl.com
+- ChatGPT: https://chat.openai.com
+- Google Translate: https://translate.google.com
