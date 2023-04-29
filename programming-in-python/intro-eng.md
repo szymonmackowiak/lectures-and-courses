@@ -15,7 +15,7 @@ Its most important features:
 - In 2000, version 2.0 was released. Since version 2.1, it has been released entirely by the Python Software Foundation - PSF (which owns all intellectual property), which is modeled on the Apache Software Foundation organization. 
 - In 2008, version 3.0 was released, and as of 2020 is the only supported and continuously developed official version of the language.
 
-<img src="img/guido_van_rossum.png" width = "500">
+<img src="/img/guido_van_rossum.png" width = "500">
 
 Guido van Rossum
 
