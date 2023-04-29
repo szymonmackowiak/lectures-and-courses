@@ -18,6 +18,7 @@ Jego najważniejsze cechy:
 ![](img/guido_van_rossum.png)
 
 Guido van Rossum
+
 ![](img/python_logo_to_2006.png)
 
 Logo języka z lat 1990-2006
