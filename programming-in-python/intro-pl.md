@@ -101,8 +101,3 @@ Netografia:
 
 - Teksty i ilustracje niniejszych materiałów są objęte licencją CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pl
 - Kody źródłowe zawarte w niniejszych materiałach są objęte licencją MIT: https://opensource.org/licenses/mit-license.php
-
-### License:
-
-- The text and illustrations of this material are licensed under CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
-- Source codes included in these materials are licensed under the MIT license: https://opensource.org/licenses/mit-license.php
