@@ -19,10 +19,13 @@ Its most important features:
 
 Guido van Rossum
 
-![[python_logo_to_2006.png]]
+![](img/python_logo_to_2006.png)
+
+
 Python logos from 1990-2006
 
-![[python_logo_since_2006.png]]
+![](img/python_logo_since_2006.png)
+
 Python logos since 2006
 
 # The most important applications of the Python language

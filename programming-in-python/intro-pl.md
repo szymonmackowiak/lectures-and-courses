@@ -15,13 +15,15 @@ Jego najważniejsze cechy:
 - W 2000 roku została wydana wersja 2.0. Od wersji 2.1 jest w całości wydawany przez Python Software Foundation - PSF (do której należy cała własność intelektualna), która jest wzorowana na organizacji Apache Software Foundation. 
 - W 2008 roku została wydana wersja 3.0. Od 2020 roku jest jedyną wspieraną i stale rozwijaną oficjalną wersją języka.
 
-![[guido_van_rossum.png]]
-Guido van Rossum
+![](img/guido_van_rossum.png)
 
-![[python_logo_to_2006.png]]
+Guido van Rossum
+![](img/python_logo_to_2006.png)
+
 Logo języka z lat 1990-2006
 
-![[python_logo_since_2006.png]]
+![](img/python_logo_since_2006.png)
+
 Logo języka od roku 2006
 
 # Najważniejsze zastosowania języka Python
