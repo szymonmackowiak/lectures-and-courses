@@ -16,6 +16,7 @@ Its most important features:
 - In 2008, version 3.0 was released, and as of 2020 is the only supported and continuously developed official version of the language.
 
 ![](img/guido_van_rossum.png)
+
 Guido van Rossum
 
 ![[python_logo_to_2006.png]]
