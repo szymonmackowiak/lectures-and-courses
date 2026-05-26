@@ -1,0 +1,15 @@
+Zadanie 1: Klasyfikacja gatunków kosaćca (Iris dataset)
+Treść: Wykonaj klasyfikację gatunków kosaćca na podstawie cech morfologicznych za pomocą algorytmu drzewa decyzyjnego i lasu losowego.
+Dodatkowo: Wykonaj badanie algorytmów w zależności od wybranego parametru np. sprawdź, jak zmieniają się metryki klasyfikacji w zależności od liczby drzew w lesie (n_estimators).
+
+Zadanie 2: Wykrywanie cukrzycy (Diabetes dataset)
+Treść: Dokonaj klasyfikacja obecności cukrzycy za pomocą algorytmu drzewa decyzyjnego i lasu losowego.
+Dodatkowo: Wykonaj badanie algorytmów w zależności od wybranego parametru np. porównaj skuteczność modelu w zależności od maksymalnej głębokości drzewa (max_depth).
+
+Zadanie 3: Rozpoznawanie cyfr (Digits dataset)
+Treść: Wykonaj klasyfikację cyfr odręcznych (0–9) za pomocą algorytmu drzewa decyzyjnego i lasu losowego.
+Dodatkowo: Wykonaj badanie algorytmów w zależności od wybranego parametru np. sprawdź, jak zmienia się skuteczność klasyfikacji w zależności od liczby cech losowanych przy każdym podziale (max_features).
+
+Zadanie 4: Klasyfikacja nowotworów piersi (Breast Cancer Wisconsin dataset)
+Cel: Zbuduj klasyfikator rozpoznający, czy guz piersi jest złośliwy czy łagodny, na podstawie cech diagnostycznych za pomocą algorytmu drzewa decyzyjnego i lasu losowego.
+Dodatkowo: Wykonaj badanie algorytmów w zależności od wybranego parametru np. zbadaj, jak wpływa parametr criterion (gini vs entropy) na jakość klasyfikacji (metryki: precision, recall, F1-score).
